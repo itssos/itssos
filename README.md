@@ -18,6 +18,3 @@
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="itssos" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itssos&theme=dark" alt="itssos" /></p>
-<br><br><br><br><br><br><br><br><br><br>
