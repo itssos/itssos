@@ -31,7 +31,7 @@ Change the `?i=js,html,css` to a list of your skills separated by ","s! You can 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring)](https://skillicons.dev)
 
 # Themed Icons
 
