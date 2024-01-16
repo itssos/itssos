@@ -1,5 +1,5 @@
-<p align="center"><img align="center" width="20" src="https://media.tenor.com/N-_9ZjalIawAAAAi/minecraft-hypixel.gif"/></p>
-<h3 align="center">Hi! I'm Sair</h3>
+<p align="center"><img align="center" width="20" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/></p>
+<h3 align="center">Hi! <img align="center" width="20" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/> I'm Sair</h3>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
