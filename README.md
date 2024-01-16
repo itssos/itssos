@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="300" src="https://media1.tenor.com/m/W589nIs4kMMAAAAC/1000.gif"/></p>
+<p align="center"><img align="center" width="300" height="100" src="https://media1.tenor.com/m/W589nIs4kMMAAAAC/1000.gif"/></p>
 <h1 align="center">Ｈｉ！<img align="center" width="40" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/> Ｉ＇ｍ Ｓａｉｒ</h1>
 <hr>
 
