@@ -3,6 +3,6 @@
 
 <p>I'm a dedicated Java developer specializing in backend web development with a focus on the powerful Spring Boot framework. 💻</p>
 
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=js,html,css,java,spring"/></p>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,html,css,php,js"/></p>
 
 ---
