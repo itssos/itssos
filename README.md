@@ -1,7 +1,7 @@
 <p align="center"><img align="center" width="600" height="200" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"/></p>
 <h1 align="center">Ｈｉ！<img align="center" width="40" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/> Ｉ＇ｍ Ｓａｉｒ</h1>
 
-<p>I'm a dedicated Java developer specializing in backend web development with a focus on the powerful Spring Boot framework. 💻</p>
+I'm a dedicated Java developer specializing in backend web development with a focus on the powerful Spring Boot framework. 💻
 
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,html,css,php,js"/></p>
 
@@ -18,3 +18,4 @@
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="itssos" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
