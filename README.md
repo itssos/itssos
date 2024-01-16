@@ -1,5 +1,4 @@
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="https://media0.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif"/></p>
 <h3 align="center">Hi! I'm Sair</h3>
 <hr>
 
