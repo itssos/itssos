@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="280" src="https://media.tenor.com/N-_9ZjalIawAAAAi/minecraft-hypixel.gif"/></p>
+<p align="center"><img align="center" width="20" src="https://media.tenor.com/N-_9ZjalIawAAAAi/minecraft-hypixel.gif"/></p>
 <h3 align="center">Hi! I'm Sair</h3>
 <hr>
 
