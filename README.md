@@ -3,11 +3,11 @@
   
 ██╗░░██╗██╗
 ██║░░██║██║
-███████║██║ <img align="center" width="150" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/> I'm Sair</h2>
+███████║██║ <img align="center" width="150" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/>
 ██╔══██║██║
 ██║░░██║██║
 ╚═╝░░╚═╝╚═╝
-  
+  I'm Sair</h2>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
