@@ -1,6 +1,6 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">HI! I'M Sair</h3>
+<h3 align="center">Hi! I'm Sair</h3>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
