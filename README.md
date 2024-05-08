@@ -1,7 +1,7 @@
 <p align="center"><img align="center" width="600" height="200" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"/></p>
 <h1 align="center">Ｈｉ！<img align="center" width="40" src="https://media1.tenor.com/m/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif"/> Ｉ＇ｍ Ｓａｉｒ</h1>
 
-A dedicated Java developer specializing in backend web development with a focus on the powerful Spring Boot framework. 💻
+A dedicated Full Stack developer specializing in web development with focuses on Angular and Spring Boot. 💻
 
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,html,css,php,js"/></p>
 
