@@ -3,7 +3,7 @@
 
 A dedicated Full Stack developer specializing in web development with focuses on Angular and Spring Boot. 💻
 
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,html,css,php,js"/></p>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,html,css,php,js"/></p>
 
 ---
 
