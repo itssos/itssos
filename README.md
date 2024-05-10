@@ -9,7 +9,7 @@
 <h3>Database</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=mysql"/></p>
 <h3>IDE's</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=idea,vs"/></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=idea,vscode"/></p>
 
 <h2>📊 Stats</h3>
 
