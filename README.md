@@ -5,7 +5,7 @@
 ## ⚙ Languages and Tools
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind)
+![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind) ![Backend](https://skillicons.dev/icons?i=spring,java,php,typescript)
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=spring,java,php,typescript)
