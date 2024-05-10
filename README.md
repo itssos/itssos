@@ -3,7 +3,7 @@
 
 <h2>⚙ Languages and Tools</h2>
 
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,html,css,php,js"/></p>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,html,css,php,js,tailwind,typescript,git"/></p>
 
 <h2>📊 Stats</h3>
 
