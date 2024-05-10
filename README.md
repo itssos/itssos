@@ -10,8 +10,6 @@ A dedicated Full Stack developer specializing in web development with focuses on
 <h3>Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="itssos" /></p>
-
-<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="itssos" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
