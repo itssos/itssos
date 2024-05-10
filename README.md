@@ -3,17 +3,9 @@
 <p>Full Stack Developer from Peru, Systems Engineering student at the Technological University of Peru. I don't stay with what I know, I go for more. Passionate about technology and software development. 👨‍💻</p>
 
 ## ⚙ Languages and Tools
-
-### Frontend      Backend
-![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind) ![Backend](https://skillicons.dev/icons?i=spring,java,php,typescript)
-
-### Backend
+![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind)
 ![Backend](https://skillicons.dev/icons?i=spring,java,php,typescript)
-
-### Database
 ![Database](https://skillicons.dev/icons?i=mysql)
-
-### IDE's
 ![IDE's](https://skillicons.dev/icons?i=idea,vscode)
 
 ## 📊 Stats
