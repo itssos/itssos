@@ -5,7 +5,7 @@
 <h3>Frontend</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind"/></p>
 <h3>Backend</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=java,spring,php,typescript"/></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=spring,java,php,typescript"/></p>
 <h3>Database</h3>
 <p><img align="center" src="https://skillicons.dev/icons?i=mysql"/></p>
 <h3>IDE's</h3>
