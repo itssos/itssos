@@ -33,4 +33,4 @@
 </picture>
 </p>
 
-<h2><img width="40" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
+<h2><img width="20" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
