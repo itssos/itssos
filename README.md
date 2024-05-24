@@ -36,6 +36,6 @@
 <h2><img width="18" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sair-marquez-hidalgo/">
-	<img height="60" src="https://media1.tenor.com/m/2ZexrTx-QSQAAAAC/linkedin.gif">
+	<img height="40" src="https://media1.tenor.com/m/2ZexrTx-QSQAAAAC/linkedin.gif">
   </a>
 </div>
