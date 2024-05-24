@@ -3,7 +3,7 @@
 ![Banner](https://media.licdn.com/dms/image/D4E16AQGmPWWq9IsoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1716578919821?e=1721865600&v=beta&t=_860FKy9V4JCuIscW9_Uwqj0QkxT5o257ABLofxLX3I)<br>
 <p align="center">My name is <strong>Sair Márquez</strong>, but you can call me Sair Márquez... Yes, I am a <strong>Full-Stack</strong> developer who frequently uses <strong>Angular</strong> and <strong>Springboot</strong>, currently located in Lima, Peru. I am a Systems Engineering student at UTP. 👨‍💻</p>
 
-<h2> <img width="18" src="https://community.gamedev.tv/uploads/db2322/original/3X/e/b/eb0cd23b6f8c73825f4030dee531bed5eaa178c2.gif"/> Languages and Tools</h2>
+<h2> <img width="18" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RoOHNoMTNnenphNGd4bndzY2VpNXd2ajN3NmZwNWw4eWczMWtvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UL3rqweR5Y2Jcrnqb/giphy.gif"/> Languages and Tools</h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></p>
 
 <h2><img width="18" src="https://media.tenor.com/m8ueXkOZi7UAAAAi/sticker-gmail.gif"/> Stats</h2>
