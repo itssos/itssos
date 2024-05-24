@@ -4,11 +4,8 @@
 <p alignt="center">My name is <strong>Sair Márquez</strong>, but you can call me Sair Márquez... Yes, I am a <strong>Full-Stack</strong> developer who frequently uses <strong>Angular</strong> and <strong>Springboot</strong>, currently located in Lima, Peru. I am a Systems Engineering student at UTP. 👨‍💻</p>
 
 ## ⚙ Languages and Tools
-![Frontend](https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind)
-![Backend](https://skillicons.dev/icons?i=spring,java,php,typescript)
-![Database](https://skillicons.dev/icons?i=mysql)
-![Other](https://skillicons.dev/icons?i=idea,vscode,git)
+<img align="center" width="40" src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/>
 
 ## 📊 Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="Stats" />
