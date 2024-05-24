@@ -32,3 +32,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&card_width=300" />
 </picture>
 </p>
+
+<h2><img width="40" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
