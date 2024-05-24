@@ -6,7 +6,7 @@
 ## ⚙ Languages and Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></p>
 
-## 📊 Stats
+<h2><img width="18" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Stats</h2>
 <p align="center">
 <picture>
   <source height=200 align="center"
@@ -32,5 +32,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&card_width=300" />
 </picture>
 </p>
-
+https://media.tenor.com/m8ueXkOZi7UAAAAi/sticker-gmail.gif
 <h2><img width="18" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
