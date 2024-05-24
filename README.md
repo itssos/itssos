@@ -7,5 +7,5 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></p>
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="Stats" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /><img src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="Stats" /></p>
+
