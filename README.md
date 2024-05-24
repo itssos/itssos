@@ -3,10 +3,10 @@
 ![Banner](https://media.licdn.com/dms/image/D4E16AQGmPWWq9IsoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1716578919821?e=1721865600&v=beta&t=_860FKy9V4JCuIscW9_Uwqj0QkxT5o257ABLofxLX3I)<br>
 <p align="center">My name is <strong>Sair Márquez</strong>, but you can call me Sair Márquez... Yes, I am a <strong>Full-Stack</strong> developer who frequently uses <strong>Angular</strong> and <strong>Springboot</strong>, currently located in Lima, Peru. I am a Systems Engineering student at UTP. 👨‍💻</p>
 
-## ⚙ Languages and Tools
+<h2> <img width="18" src="https://community.gamedev.tv/uploads/db2322/original/3X/e/b/eb0cd23b6f8c73825f4030dee531bed5eaa178c2.gif"/> Languages and Tools</h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></p>
 
-<h2><img width="18" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Stats</h2>
+<h2><img width="18" src="https://media.tenor.com/m8ueXkOZi7UAAAAi/sticker-gmail.gif"/> Stats</h2>
 <p align="center">
 <picture>
   <source height=200 align="center"
@@ -32,5 +32,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&card_width=300" />
 </picture>
 </p>
-https://media.tenor.com/m8ueXkOZi7UAAAAi/sticker-gmail.gif
+
 <h2><img width="18" src="https://media1.tenor.com/m/aiFLeFGGeXQAAAAC/gmail-pixel-art.gif"/> Contact me </h2>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/sair-marquez-hidalgo/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+</div>
