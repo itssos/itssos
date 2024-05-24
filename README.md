@@ -7,5 +7,28 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></p>
 
 ## 📊 Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /><img src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&locale=en" alt="Stats" /></p>
+<p align="center">
+<picture>
+  <source height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&theme=dark&card_width=300"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&card_width=300"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itssos&show_icons=true&card_width=300" />
+</picture>
 
+<picture>
+  <source height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&bg_color=151515&title_color=ffffff&text_color=9f9f9f&card_width=300"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height=200 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&card_width=300"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssos&layout=compact&card_width=300" />
+</picture>
+</p>
