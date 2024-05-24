@@ -4,7 +4,7 @@
 <p alignt="center">My name is <strong>Sair Márquez</strong>, but you can call me Sair Márquez... Yes, I am a <strong>Full-Stack</strong> developer who frequently uses <strong>Angular</strong> and <strong>Springboot</strong>, currently located in Lima, Peru. I am a Systems Engineering student at UTP. 👨‍💻</p>
 
 ## ⚙ Languages and Tools
-<img align="center" src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/>
+<h2 align="center"><img align="center" src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,spring,java,php,typescript,mysql,idea,vscode,git"/></h2>
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssos&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
