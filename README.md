@@ -1,6 +1,6 @@
 <h2 align="center">Ｈｉ！<img width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Ｉ＇ｍ Ｓａｉｒ</h2>
 
-![Banner]([https://media.licdn.com/dms/image/D4E16AQGmPWWq9IsoeQ/profile-displaybackgroundimage-shrink_350_1400/0/1716578919821?e=1721865600&v=beta&t=_860FKy9V4JCuIscW9_Uwqj0QkxT5o257ABLofxLX3I](https://media.licdn.com/dms/image/v2/D4E16AQGmPWWq9IsoeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353782742?e=1739404800&v=beta&t=J5jLbNTh3KcUJwA3NAYRzn3fdB36ECO4BpRly11uz-4))<br>
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGmPWWq9IsoeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353782742?e=1739404800&v=beta&t=J5jLbNTh3KcUJwA3NAYRzn3fdB36ECO4BpRly11uz-4)<br>
 <p align="center">My name is <strong>Sair Márquez</strong>, but you can call me Sair Márquez... Yes, I am a <strong>Full-Stack</strong> developer who frequently uses <strong>Angular</strong> and <strong>Springboot</strong>, currently located in Lima, Peru. I am a Systems Engineering student at UTP. 👨‍💻</p>
 
 <h2> <img width="18" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRpdTRoMDFtdnQydW1xdjZkNmZxNnB5YzV2Zm1lNWpkY2x5OGJmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6NWr6GqIdbVx4ECJl/giphy.gif"/> Languages and Tools</h2>
